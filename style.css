@@ -1,0 +1,22 @@
+.tempat{
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+.tempat1{
+  font-size: 3rem;
+  display: inline-block;
+}
+
+.bungkus{
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+  box-shadow: 4px 5px 25px 12px brown;
+  margin-top: 4rem;
+  border-radius: 10px;
+}
+
+.ket{
+  font-size: 1.4rem;
+}
