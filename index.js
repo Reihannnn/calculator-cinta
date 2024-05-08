@@ -63,7 +63,7 @@ function putar(){
     }
     numberPercent.innerHTML = arrayNumberPercent[i++];
     if(i == arrayNumberPercent.length) i = 0;
-  }, 100);
+  }, 1);
  
 }
 
